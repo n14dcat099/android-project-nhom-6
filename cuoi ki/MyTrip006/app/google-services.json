@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "335021365900",
+    "firebase_url": "https://mytrip006-127d7.firebaseio.com",
+    "project_id": "mytrip006-127d7",
+    "storage_bucket": "mytrip006-127d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335021365900:android:dbc434ae763945ab",
+        "android_client_info": {
+          "package_name": "vn.edu.ptithcm.mytrip006"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335021365900-kq564421anhcs61o35vd23hb1gi8901m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.edu.ptithcm.mytrip006",
+            "certificate_hash": "baee01ef048845adc62aaee7b8d103fb86a6e80a"
+          }
+        },
+        {
+          "client_id": "335021365900-2bji2q6h4nthcj5uo1t1n77qaajuldil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ90z4OgHb3Yo8vAB4AEZVLAlInbwJbBo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335021365900-2bji2q6h4nthcj5uo1t1n77qaajuldil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

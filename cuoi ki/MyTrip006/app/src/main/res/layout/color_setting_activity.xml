@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/backgroundSettings">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:paddingLeft="20dp"
+        android:paddingTop="30dp"
+        android:text="@string/chon_background"
+        android:textColor="#000000"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+    <RadioGroup
+        android:id="@+id/chooseGroup"
+        android:layout_marginLeft="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/chooseDefault"
+            android:checked="true"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Mặc định"
+            android:textSize="16sp"
+            android:padding="5dp"
+            android:textColor="@color/colorPrimary"/>
+        <RadioButton
+            android:id="@+id/choosePink"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Màu hồng"
+            android:textSize="16sp"
+            android:padding="5dp"
+            android:textColor="@color/colorPink"/>
+        <RadioButton
+            android:id="@+id/chooseBlue"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Màu xanh"
+            android:textSize="16sp"
+            android:padding="5dp"
+            android:textColor="@color/colorBlue"/>
+        <RadioButton
+            android:id="@+id/chooseOrange"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Màu cam"
+            android:textSize="16sp"
+            android:padding="5dp"
+            android:textColor="@color/colorOrange"/>
+        <RadioButton
+            android:id="@+id/chooseGreen"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Màu xanh lá"
+            android:textSize="16sp"
+            android:padding="5dp"
+            android:textColor="@color/colorGreen"/>
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/back2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="save"
+        android:layout_gravity="center"/>
+</LinearLayout>

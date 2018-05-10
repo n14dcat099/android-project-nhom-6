@@ -1,0 +1,347 @@
+<resources>
+
+    <string name="app_name">Du Lịch</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="menu_item_search">Search</string>
+    <string name="email">Email </string>
+    <string name="passowrd">Password</string>
+    <string name="login">ĐĂNG NHẬP</string>
+    <string name="show_pwd">Hiện Password</string>
+    <string name="hide_pwd">Ẩn Password</string>
+    <string name="forgot">Quên password?</string>
+    <string name="closebutton">Đóng </string>
+    <string name="newUser">Chưa phải là thành viên? Đăng ký.</string>
+    <string name="fullName">Tên</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="terms_conditions">Đồng ý với các Điều Khoản và Quy định của MyTrip.</string>
+    <string name="signUp">ĐĂNG KÝ</string>
+    <string name="already_user">Đã có tài khoản? Đăng nhập.</string>
+    <string name="registered_emailid">Điền Email đã đăng ký vào phía dưới.</string>
+    <string name="submit">GỬI</string>
+    <string name="back">TRỞ LẠI</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <!-- Facebook Login -->
+    <string name="FACEBOOK_APP_ID">178781489591357</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">[ACCOUNT_KIT_CLIENT_TOKEN]</string>
+    <string name="facebook_app_id">178781489591357</string>
+    <string name="fb_login_protocol_scheme">fb178781489591357</string>
+
+    <string name="login_email_label">Login with Email</string>
+    <string name="login_phone_label">Login with Phone Number</string>
+    <string name="account">Account</string>
+    <string name="id_label">Account ID</string>
+    <string name="phone_label">Phone Number</string>
+    <string name="email_label">Email</string>
+    <string name="name_label">Name</string>
+    <string name="logout_label">Log Out</string>
+
+    <!-- activity main -->
+    <string name="menu_popular">Popular</string>
+    <string name="menu_my_places"> My Places</string>
+    <string name="menu_favorites">Favorites</string>
+    <string name="menu_settings">Settings</string>
+
+    <!-- settings fragment -->
+    <string name="userInfo">THÔNG TIN CÁ NHÂN</string>
+    <string name="logout">ĐĂNG XUẤT</string>
+    <string name="changePassword">ĐỔI MẬT KHẨU</string>
+
+    <!-- change password fragment -->
+    <string name="fillYourNewPassword">Điền mật khẩu mới của bạn</string>
+    <string name="newPassword">New Password</string>
+
+    <string name="placeholder">Placeholder</string>s
+    <string name="discard">Discard</string>
+    <string name="upload">Upload</string>
+    <string name="camera_settings">Æ’/4 16s ISO 200</string>
+    <string name="settings">Settings</string>
+    <string name="camera">Camera</string>
+    <string name="camera_value">Leica M Typ 240</string>
+    <string name="danang">Danang</string>
+
+    <string name="details_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="destination_name">Central of Vietnam</string>
+    <string name="content_description">Destination Poster</string>
+
+    <string name="title_activity_north">Miền Bắc</string>
+    <string name="description_coto1">
+        Trạm Hải đăng Cô Tô là 1 trong số hơn 30 “con mắt biển đêm” đang hoạt động trên khắp vùng lãnh hải Việt Nam, ngọn hải đăng này được xây dựng từ cuối thế kỷ 19. Để leo lên được ngọn hải đăng, du khách phải vượt qua những khúc cua dốc đứng, sau đó leo tiếp lên 72 bậc cầu thang từ dưới chân lên đến đỉnh ngọn hải đăng. Từ đây bạn có thể thoải mái thu vào tầm mắt toàn cảnh đảo Cô Tô, từ thị trấn biển đẹp như mơ, xen lẫn những rừng cây xanh mướt, êm đềm những mái nhà khiêm nhường và giản dị.
+
+    </string>
+
+    <string name="khampha_diadiemhotmiennam_gioithieu">Miền Tây Nam Bộ thu hút đông đảo du khách ghé thăm với những đồng ruộng mênh mông mông, những cánh đồng bát ngát, và các con sông, kênh rạch chằng chịt mang đến cảm giác tươi mát, thú vị. Hãy đến với 10 địa điểm du lịch nổi tiếng của Tây Nam Bộ ngay sau đây nhé!</string>
+    <string name="khampha_diadiemhotmiennam_chonoicairang">Cái Răng (Cần Thơ) là một trong những chợ trên sông nổi tiếng ở khu vực Tây Nam Bộ. Chợ chuyên mua bán các loại trái cây cùng những nông sản của vùng. Mỗi sớm, có tới hàng trăm chiếc thuyền lớn bé đậu sát nhau trên sông. Bán sản vật gì người ta sẽ treo sản vật đó lên cây sào ở trên mũi thuyền nên không cần phải rao hàng như các chợ trên đất liền. Chợ nổi Cái Răng đã trở thành điểm du lịch hấp dẫn nhất của Tây Nam Bộ mà du khách không thể bỏ qua trong hành trình của mình.</string>
+    <string name="khampha_diadiemhotmiennam_conphung">Khu du lịch Cồn Phụng là một cù lao nổi thuộc đja phận xã Tân Thạnh, huyện Châu Thành, tỉnh Bến Tre. Tới đây, du khách sẽ có cơ hội tham gia vào cuộc sống của miền sông nước Nam bộ như chèo xuồng trong những kênh rạch, đi xe ngựa tham quan các vườn cây ăn trái hoặc các làng nghề truyền thống, được thưởng thức loại trà pha mật ong có mùi hương nhãn, hay thưởng thức giọng hát đờn ca tài tử… Bên cạnh đó, du khách cũng có thể tham gia vào nhiều trò chơi thú vị.</string>
+    <string name="khampha_diadiemhotmiennam_mykhanh">Khi có dịp đến với Cần Thơ, du khách không nên bỏ qua khu du lịch Mỹ Khánh – một trong những khu du lịch sinh thái hấp dẫn. Đến đây, du khách sẽ được tham quan những ngôi nhà nông thôn, đi dạo trong những tán cây, tận hưởng làn gió mát dịu và thưởng thức hàng trăm loại trái cây ngay tại chỗ hay tham gia nhiều trò chơi giải trí.</string>
+    <string name="khampha_diadiemhotmiennam_traicaytanquy">Cù lao Tân Quy (Trà Vinh ) từ lâu đã được mệnh danh là xứ sở của cây trái, bởi nơi đây có điều kiện tự nhiên được thiên nhiên ưu đãi, rất thích hợp cho sự phát triển nhiều loại cây ăn trái. Có diện tích khoảng 500 ha, du khách khi đến Tân Quy sẽ choáng ngợp với hàng trăm loại cây trái nối tiếp nhau, kéo dài vô tận như chôm chôm, dâu, măng cụt, sầu riêng…</string>
+    <string name="khampha_diadiemhotmiennam_traicaytambinh">Có diện tích trên 7.600 ha, vườn cây trái Tam Bình (Vĩnh Long) nổi tiếng với các loại cây ăn trái như cam sành, xoài, sầu riêng, măng cụt, và thanh long, dâu… Trong đó nổi tiếng nhất là cam sành có vị ngọt thanh, hương thơm nồng. Tới Tam Bình, du khách còn được tham quan di tích Cái Ngang, chùa Kỳ Sơn, chùa Phước Sơn… cùng các làng nghề truyền thống.</string>
+    <string name="diadiemanuong_tphcm_bunrieubanhthanh1">Hiếm có thành phố nào mà đông tây kết hợp, cổ kim giao thoa hài hòa như Sài Gòn. Bạn có thể bắt gặp những nhãn hiệu đồ ăn nhanh hay take away mới nhất trên thế giới, nhưng cũng có thể vô tình lạc vào một quán bình dân với tuổi đời gần nửa thế kỉ. Bún riêu Bến Thành – số 4 Phan Bội Châu – là một trong số đó. Không chỉ nổi tiếng về độ lâu đời, bún riêu Bến Thành còn được biết đến với công thức ngon, độc khiến người nổi tiếng cũng phải ghé ăn:</string>
+    <string name="diadiemanuong_tphcm_bunrieubanhthanh3">Đi kèm món chả cua là nước sốt gồm mắm me, muối chanh và mắm tôm. Chúng tôi đã được chủ quán dạy cho cách ăn đúng điệu: Hòa phần nước sốt này với nhau, chấm chả với nước sốt rồi ăn cùng bún. Người thích đậm đà thì có thể chan thêm vào tô bún. Sốt chua nhẹ giúp cân bằng rất tốt vị ngọt, béo của chả cua.</string>
+    <string name="diadiemanuong_tphcm_bunrieubanhthanh2">Thế nhưng, tạm bỏ qua tiếng tăm có trước, lần ăn thử bún riêu Bến Thành này tập trung vào hương vị của món ăn – và có thể nói không phải tự dưng mà quán nổi tiếng: Bún riêu ở đây có công thức rất lạ miệng. Đặc sản của quán là chả cua. Thay vì riêu cua như chỗ khác thì cua ở đây được làm thành miếng chả rất to và chắc, ngoài thịt cua còn có tôm tươi và nhiều nguyên liệu đặc biệt khác. Khi trò chuyện, dù ra sức năn nỉ nhưng chủ quán vẫn từ chối tiết lộ bí kíp gia truyền quý giá này. Chả mềm, ngọt thịt, nạc khá nhiều nên béo nhẹ chứ không ngậy, không hề tanh, người sợ mùi tanh vẫn có thể ăn được.:</string>
+    <string name="beachnorth">Mùa hè đang gõ cửa, để xua tan ngay cái nóng nực đầu hè của miền Bắc, không gì tuyệt hơn là được đắm mình trong làn nước biển trong xanh, quyến rũ của một trong những bãi biển hấp dẫn nhất nơi đây.</string>
+    <string name="beachnorth1">Bãi biển Sầm Sơn thuộc thị xã Sầm Sơn, tỉnh Thanh Hóa là một trong những bãi tắm đẹp, được người Pháp biết đến và khai thác từ năm 1906. Từ những thập kỷ trước, đã có nhiều biệt thự nghỉ mát mọc lên ở đây. Vua Bảo Ðại, ông vua cuối cùng của triều Nguyễn cũng xây biệt thự riêng ở Sầm Sơn. Bên cạnh bãi biển đẹp, Sầm Sơn có nhiều thắng cảnh nổi tiếng như: Hòn Trống Mái, đền Ðộc Cước, chùa Cô Tiên...</string>
+    <string name="beachnorth2">Cô Tô là một quần đảo nằm ở phía đông của đảo Vân Đồn, tỉnh Quảng Ninh, có diện tích 47,3 km². Với khoảng hơn 50 đảo, đá lớn nhỏ, Cô Tô những năm gần đây trở thành một điểm đến hấp dẫn trong bản đồ du lịch phía Bắc. Với bãi cát trải dài, biển lặng sóng và an toàn, bãi Hồng Vàn thuộc thôn Hồng Hải, xã Đồng Tiến, huyện Cô Tô đang trở thành một điểm đến lý tưởng cho du khách khi du lịch đảo Cô Tô. Trên bãi cát là những căn nhà gỗ được thiết kế sáng tạo, gần gũi với thiên nhiên, nơi bạn chỉ cần mở cửa phòng là đã có thể hòa mình vào làn nước biển trong xanh, mát lạnh.Bên cạnh đó, để trải nghiệm nhiều hơn thiên nhiên kỳ thú của vùng biển đảo Cô Tô, bạn còn có thể chèo kayak hay lặn biển ngắm những chú cá xinh xắn, rực rỡ sắc màu len lỏi trong những “rừng rong” uốn lượn theo từng đợt sóng.</string>
+    <string name="beachnorth3">Biển Trà Cổ được mệnh danh là "bãi biển trữ tình nhất Việt Nam" với bãi tắm rộng và bằng phẳng, nền cát trắng mịn hòa trong nền nước biển xanh biếc suốt bốn mùa. Do nằm rìa bên ngoài của một đảo bồi tự nhiên nên bờ biển này có những cồn cát cao từ 3 đến 4 mét.
+Trà Cổ có khí hậu mát mẻ, nồng nàn hương biển, không gian tĩnh mịch và còn mang đậm nét hoang sơ. Tới đây, bạn cũng có thể mua hải sản tươi sống ở ngay bên bờ biển khi thuyền chài ngư dân vừa đi đánh bắt về.</string>
+    <string name="beachnorth4">Bãi Cháy là một bãi tắm nhân tạo, nằm dọc Vịnh Hạ Long với bãi cát dài hơn 500m và rộng 100m. Đây là bãi tắm thu hút rất đông du khách vào mùa du lịch biển.
+Hàng ngày vào buổi sáng sớm hay chiều tà, hàng ngàn người thường xuống đây tắm, khiến nơi đây trở nên náo nhiệt lạ thường. Hơn nữa, xung quanh Bãi Cháy là một dải đồi thấp chạy thoai thoải về phía biển, kéo dài hơn 2km, đan xen là những khách sạn, những biệt thự nhỏ kiến trúc riêng biệt khiến nơi đây mang một vẻ đẹp riêng, vô cùng ấn tượng.</string>
+    <string name="beachnorth6">Bờ biển Hải Hậu có đặc điểm riêng là những nhà thờ nằm sát mép nước đã hư hỏng phải bỏ hoang do hiện tượng nước biển xâm thực như tại xã Hải Lý. Từ Hà Nội, du khách có thể đi xe khách với các chuyến liên tục trong ngày, qua quãng đường 110 km tới thành phố Nam Định, sau đó đi tiếp xe khách nội tỉnh hơn 40 km nữa đến Hải Hậu. Bờ biển Hải Hậu dài khoảng 33 km, kéo từ thị trấn Quất Lâm tới bãi tắm Thịnh Long, nơi đây vẫn giữ được vẻ hoang sơ, rất thích hợp cho những người thích sự yên tĩnh.</string>
+    <string name="beachnorth7">Đồ Sơn là một quận của thành phố Hải Phòng, nằm cách trung tâm thành phố khoảng 20 km về hướng Đông Nam. Thiên nhiên đã ưu đãi cho nơi này một bãi tắm đẹp, chan hoà ánh nắng với khí hậu ấm áp trong mùa đông, và mát mẻ vào mùa hè. Nằm ở địa thế giao thông thuận lợi, nên du khách có thể dễ dàng trải nghiệm một kỳ nghỉ ngắn ngày tại Đồ Sơn vào bất cứ thời gian nào.</string>
+    <string name="beachnorth8">Cát Bà là đảo lớn nhất trong số hàng ngàn hòn đảo của quần thể đảo Vịnh Hạ Long. Thiên nhiên ở đây hoang sơ với rừng, biển, sông, suối, núi, đồi, thung lũng, bãi cát, hang động, xen kẽ gắn kết với nhau tạo nên nhiều cảnh đẹp kỳ thú.
+Cát Bà là đảo lớn nhất trong số hàng ngàn hòn đảo của quần thể đảo Vịnh Hạ Long. Thiên nhiên ở đây hoang sơ với rừng, biển, sông, suối, núi, đồi, thung lũng, bãi cát, hang động, xen kẽ gắn kết với nhau tạo nên nhiều cảnh đẹp kỳ thú.</string>
+    <string name="beachnorth9">Bãi biển Cửa Lò nằm cách thành phố Vinh khoảng 16 km và Hà Nội hơn 300 km. Cửa Lò được người Pháp phát hiện và đưa vào làm nơi nghỉ mát từ năm 1907 nhưng những năm 2000, điểm nghỉ mát này mới thực sự thu hút đông khách du lịch.
+Bên cạnh đó, du lịch Cửa Lò du khách còn có cơ hội tham quan các địa danh nổi tiếng khác của tỉnh Nghệ An như: quê Bác tại làng Kim Liên (Nam Đàn), quảng trường Hồ Chí Minh (thành phố Vinh), rừng nguyên sinh Pù Mát (Con Cuông)…</string>
+    <string name="beachnorth10">Bãi biển Thiên Cầm thuộc huyện Cẩm Xuyên, Hà Tĩnh nằm kề khu du lịch Thiên Cầm và núi Trộn, cách thị xã Hà Tĩnh 26km về phía Nam. Tên gọi của nơi đây gắn với tương truyền ngày xưa khi vua Hồ Quý Ly đi thị sát đất phòng thủ, đến nơi này vẳng nghe tiếng gió, tiếng sóng, tiếng lá reo cùng dội vào vách núi tạo nên một bản nhạc du dương, nên đặt tên cho vùng này là Thiên Cầm (đàn trời).    </string>
+    <string name="beachnoth5">Bãi biển Đồng Châu thuộc xã Đông Minh - huyện Tiền Hải, cách Thành phố Thái Bình 30km đi theo quốc lộ 39B. Tuy không được xếp vào những bãi biển cực đẹp, song bãi biển yên bình nép dưới bóng mát của rừng phi lao, rừng thông cực thích hợp cho việc nghĩ dưỡng. Ngoài ra, du khách còn có thể ngồi xuồng máy ra thăm hay tắm biển ở Cồn Thủ và Cồn Vành cách đất liền 7km.</string>
+    <string name="placesnorth1">Hà Nội chắc chắn là điểm đến đầu tiên mà các bạn không thể bỏ qua khi du lịch miền Bắc. Là nơi lưu giữ ngàn năm tinh hoa của dân tộc, Hà Nội không chỉ nổi tiếng với nhiều di tích lịch sử, danh lam thắng cảnh đẹp, nền ẩm thực độc đáo mà còn ghi dấu ấn trong lòng du khách bởi sự thanh lịch, tinh tế của người thủ đô.</string>
+    <string name="placesnorth2">Cô Tô được nhiều người xem là hòn đảo xinh đẹp nhất nhì ở Bắc bộ với những bãi biển hoang sơ, bờ cát dài trắng mịn cùng làn nước trong xanh. Bởi thế mà Cô Tô không chỉ là điểm đến hấp dẫn với du khách trong nước mà còn với cả các du khách nước ngoài. Du khách khi tới đây có thể tắm biển cũng như tham gia nhiều hoạt động hấp dẫn như câu mực vào buổi đêm, trèo lên ngọn hải đăng ngắm nhìn cảnh mây nước xung quanh…</string>
+    <string name="placesnorth3">Nằm ở phía Tây Bắc của Việt Nam, Sapa nổi tiếng là địa điểm du lịch ở miền Bắc tuyệt đẹp với những màn sương bao phủ quanh năm, không khí trong lành, những đồi ruộng bậc thang xanh mát cùng nét đẹp thơ mộng của những phiên chợ vùng cao. Đến với Sapa các bạn sẽ được tận hưởng bầu không khí trong lành, mát mẻ của mùa hè hay có cơ hội “săn tuyết” cực kỳ thú vị vào mùa đông.</string>
+    <string name="placesnorth4">Nằm ở độ cao 900m so với mực nước biển, không khí mát mẻ cùng không gian yên tĩnh, trong lành hiếm thấy ở một nơi nào khác là những điều mà các du khách có thể cảm nhận được khi đặt chân đến Tam Đảo. Bên cạnh những địa điểm tham quan như thác Bạc, nhà thờ Tam Đảo, du khách khi tới đây còn được thưởng thức những đặc sản nổi tiếng như su su hay gà đồi.</string>
+    <string name="placesnorth5">Đến với vườn Quốc gia Ba Vì du khách sẽ không chỉ được hòa mình trong không gian thiên nhiên kì vĩ của núi rừng, chiêm ngưỡng nhiều loại thực vật quý hiếm chỉ có riêng ở nơi đây mà còn được tham gia các hoạt động như leo núi, đốt lửa trại, vui chơi thể thao… Bên cạnh đó vườn quốc gia Ba Vì còn sở hữu những con suối xinh đẹp, nhà kính xương rồng và nhà thờ cổ trên núi để các bạn có thể chiêm ngưỡng cũng như thỏa thích chụp ảnh</string>
+    <string name="placesnorth6">Khí hậu chính là món quà quý giá và tuyệt vời nhất mà thiên nhiên đã ban tặng cho Mộc Châu. Cái se lạnh trong làn sương mù dày đặc cùng với cảnh quan kì vĩ, những đồi chè xanh mướt hay những ngôi làng xinh xắn ven đường chính là nép đẹp độc đáo khiến du khách phải mê mẩn tới đây để trải nghiệm và khám phá vùng đất xinh đẹp này.</string>
+    <string name="placesnorth7">Nằm trong vườn quốc gia Ba Bể, hồ Ba Bể là một thắng cảnh tuyệt đẹp được mệnh danh là “thiên hạ đệ nhất hồ”. Chắc hẳn sẽ chẳng còn điều gì tuyệt vời hơn khi du khách tới đây sẽ được trải nghiệm cảm giác lênh đênh giữa đêm trên hồ để ngắm cảnh sông nước, núi non.</string>
+    <string name="placesnorth8">Cát Bà được xem là một trong các điểm du lịch miền Bắc hấp dẫn nhất khi đón hàng ngàn lượt khách du lịch tới tắm biển mỗi năm. Là nơi giao hòa giữa vẻ đẹp của rừng và biển, tới đây du khách sẽ vừa được khám phá cánh rừng nguyên sinh với nhiều loài động thực vật phong phú, vừa được tắm mát ở những bãi biển đẹp với làn nước xanh mát.</string>
+    <string name="placesnorth9">Những năm gần đây Ninh Bình đang dần trở thành điểm đến du lịch không chỉ hấp dẫn du khách trong nước mà còn cả với khách quốc tế. Ninh Bình sở hữu nhiều danh lam thắng cảnh miền Bắc mà các bạn có thể đến tham quan và khám phá như Tam Cốc – Bích Động, quần thể danh thắng Tràng An, đầm Vân Long hay đi vãn cảnh ở chùa Bái Đính.</string>
+    <string name="placesnorth10">Giống như một hòn đảo nhỏ xinh nằm trong hồ sông Đà, Thung Nai là địa điểm du lịch miền bắc cực kỳ thích hợp cho những bạn muốn có một chuyến du lịch thư giãn, giải tỏa những căng thẳng trong cuộc sống. Được nhiều người ưu ái ví như “Vịnh Hạ Long trên cạn”, với vẻ đẹp hoang dại cùng phong cảnh sông núi hữu tình, du khách khi tới đây sẽ cảm thấy như đang lạc vào một thế giới khác.</string>
+    <string name="intro">Miền Bắc là nơi khởi nguồn văn hóa ngàn năm văn hiến của dân tộc Việt Nam. Du lịch miền Bắc du khách sẽ được khám phá những thắng cảnh thiên nhiên đẹp mê hồn cùng nhiều công trình kiến trúc ấn tượng được tạo nên bởi bàn tay khéo léo của con người. Giờ hãy cùng Vntrip.vn tìm hiểu những địa điểm du lịch miền bắc hấp dẫn để bắt đầu lên kế hoạch du lịch ngay nhé!</string>
+    <string name="dauxanh">Hải Dương thuộc Đồng Bằng Bắc Bộ. Với chiếc bánh đậu xanh Hải Dương nó ra đời vào thế kỷ 20 dựa vào một lần vua Bảo Đại qua thị trấn Hải Dương  được nhân dân ở Hải Dương dâng lên  một loại bánh làm từ đỗ xanh. Bánh đậu xanh này có hương vị thơm, ngon, thanh đạm. Vua ăn thấy ngon nên đã rất thích thú với chiếc bánh làm từ đậu xanh này. Sau đó khi vua Bảo Đại về đã ban sắc lệnh khen bánh đậu xanh ở đây. Điểm đặc biệt ở đây là sắc lệnh của vua ban được in hình “Rồng vàng” – tượng trưng cho biểu tượng của vua. Chính từ đó cái tên “bánh đậu xanh rồng vàng” ra đời và nó dùng để phân biệt với bánh đậu xanh Hải Dương với bánh đậu xanh ở các nơi khác. Với nhiều người khi có dịp qua thành phố Hải Dương đều chọn mua chiếc bánh đậu xanh để làm quà cho người thân. Bánh đậu xanh Hải Dương luôn có một hàm lượng chất dĩnh dưỡng cao. Bánh đậu xanh Hải Dương giúp nhiều người giảm béo, giảm mỡ máu, phòng các bệnh xơ cứng động  mạch.</string>
+    <string name="dauxanh1">Để làm được món đặc sản miền Bắc này được thơm ngon là điều vô cùng khó khăn. Tuy nhiên để chế biến được nó ta cần đậu xanh, đường kết tinh, mỡ lợn, tinh dầu của hoa bưởi. Các nguyên liệu này sẽ được trộn lẫn với nhau theo một tỷ lệ phù hợp nếu tỷ lệ không chuẩn chúng ta sẽ được một chiếc bánh đậu xanh không ngon.  Mỡ khổ còn tươi, lột da, rán nhỏ lửa cho mỡ trong và thơm. Mỡ rán khéo là loại mỡ vừa độ lửa, nếu mỡ rán quá già, bánh sẽ có mùi khét; nếu mỡ quá non bánh sẽ mất mùi thơm và vị ngậy. Phần đỗ xanh dùng làm bánh phải được chọn lọc theo một quy trình rất nghiêm ngặt để đảm bảo bánh được ngon nhât. Hạt đỗ phải được phơi khô, không mốc. Hạt đỗ sẽ được rang chín, khi đã chín thì đem xay rồi bóc vỏ, nghiền thành bôt. Một yếu tố không kém phần quan trọng là giấy gói bên ngoài của bánh đậu xanh, mầu sắc để bánh có màu sắc đẹp và bắt mắt.</string>
+    <string name="dauxanh2">Thưởng thức món đặc sản Miền Bắc này cũng cần một nghệ thuật. Khi thưởng thức bánh đậu xanh Hải Dương phải chầm chậm cho từng miếng một vào miệng, để từng miếng bánh tan vào trong miệng mới cảm nhận hết được vị ngon của bánh. Thêm một chén trà nóng bạn sẽ thấy bánh thật ngậy và thơm ngon, mát dịu.</string>
+    <string name="buivien1">Đến Sài Gòn, câu cửa miệng của hầu hết khách du lịch là "Nhất định phải ghé phố Tây Bùi Viện". Muốn biết một Sài Gòn "suốt đêm không ngủ" nhộn nhịp ra sao, sầm uất như thế nào thì có lẽ chẳng đâu bằng Bùi Viện.</string>
+    <string name="nguyenhue1">Phố đi bộ Nguyễn Huệ là một điểm nhấn mới trong kiến trúc đô thị thành phố Hồ Chí Minh, là điểm đến ưa thích của những bạn trẻ sau ngày làm việc mệt mỏi cũng như những du khách ưa thích khám phá.</string>
+    <string name="cauanhsao">Cầu Ánh Sao (Starlight Bridge) tọa lạc tại khu đô thị Phú Mỹ Hưng, quận 7, thành phố Hồ Chí Minh. Cầu có chiều dài 170m, mặt cầu rộng 8,3m, được bắc ngang qua kênh Thầy Tiêu với thiết kế cong hình mặt trăng. Được khánh thành ngày 20/4/2010, điều đặc biệt là chiếc cầu tràn ngập ánh sáng này chỉ dành cho người đi bộ để ngắm cảnh.</string>
+    <string name="nhathoducba">Nhiều người ngỡ ngàng và cảm phục khi ngắm ngôi thánh đường nhà thờ Đức Bà với kiến trúc đặc biệt ấn tượng do các vị mục tử và các nghệ nhân ngày xưa đã đem hết tâm huyết xây dựng.</string>
+    <string name="buivien2">Phố Bùi Viện hay còn được gọi là phố Tây, bởi số lượng khách du lịch đến chủ yếu từ các nước phương Tây như Mỹ, Anh, Pháp.Kể từ năm 2009, đối tượng đến Phố Tây đã được mở rộng, không chỉ là người phương Tây mà còn là các du khách châu Á và khách trong nước.</string>
+    <string name="buivien3">Có thể nói, đây được xem là một trong những tụ điểm xem - chơi rất "được lòng" giới trẻ ở Sài Gòn, đặc biệt là với du khách nước ngoài.</string>
+    <string name="buivien4">Họ đến đây vừa để tận hưởng bầu không khí sôi động, nhộn nhịp, vừa để hiểu thêm nét văn hóa đặc sắc của một Sài Gòn "suốt đêm không ngủ".</string>
+    <string name="buivien5">Bắt đầu từ ngày 20/8, phố Bùi Viện đã trở thành tuyến phố đi bộ thứ hai của Sài Gòn. Vì vậy, vào hai ngày cuối tuần, từ 19h lực lượng an ninh sẽ tiến hành nghiêm cấm các phương tiện di chuyển vào tuyến phố, để mang lại một không gian đi bộ thoải mái cho người dân và du khách.</string>
+    <string name="buivien6">Phố đi bộ Bùi Viện hoạt động khá muộn, từ 19h đến tận 2 giờ đêm. Theo quy hoạch, con phố dài này dài 850 m từ mũi tàu đường Nguyễn Thái Học - Trần Hưng Đạo đến đường Cống Quỳnh.</string>
+    <string name="buivien7">Bởi đến đây không chỉ để tận hưởng, bạn còn được bắt gặp những khoảnh khắc vô cùng đẹp. Ví như khoảnh khắc những cái bắt tay thay một lời chào thân tình giữa những người xa lạ này cũng vậy.</string>
+    <string name="dauxanh3">Món đặc sản Miền Bắc này không chỉ được dùng trong đời sống hàng ngày mà còn được dùng trong các dịp như:
+
+    </string>
+    <string name="cocsan">Tọa lạc tại xã Cốc San, huyện Bát Xát, cách thành phố Lào Cai khoảng 7km, Cốc San là một hệ thống các thác nước và các hang động to nhỏ khác nhau. Từ quốc lộ 4D, có một con đường đất nhỏ dài khoảng hơn 1km dẫn vào Cốc San. Đường vào Cốc San rất ngoằn ngoèo, tối và bị lấp bởi những tảng đá, vẻ đẹp của Cốc San vẫn hoàn toàn mang tính chất tự nhiên, hoang sơ. Có một điều rất đặc biệt là hầu như ở mỗi gầm một con thác, sau làn nước đổ từ trên cao xuống lại có một hang động. Phong cảnh Cốc San hài hoà và khoáng đạt. Mọi người mỗi khi đến đây đều cảm nhận được sự huyền bí diệu kỳ toát lên từ những ngọn thác, những mô đá và những hang động.</string>
+    <string name="pxb">ansipan là ngọn núi cao nhất của bán đảo Đông Dương (3.143 m), nằm ở trung tâm dãy Hoàng Liên Sơn. Tuy chỉ cách thị trấn Sapa 9 km về phía Tây Nam, nhưng nếu đi bộ, leo núi bạn phải mất 6 đến 7 ngày mới chinh phục được đỉnh núi này. Hiện nay, rất nhiều nhà leo núi cả chuyên nghiệp lẫn nghiệp dư tìm đường chinh phục đỉnh Fansipan. Họ có thể đi theo tour của các công ty du lịch hoặc tự tổ chức với sự dẫn đường của dân địa phương, người dân tộc Mông, Dao (ở bản Cát Cát).
+
+Trên đường lên đỉnh núi, du khách sẽ được khám phá hệ động thực vật và thiên nhiên kỳ thú của dãy Hoàng Liên. Tại đó có rất nhiều cây Hoàng Liên, một loại dược liệu quý, các loại gỗ quý, chim thú như gà gô, gấu, khỉ, sơn dương, các loài chim…</string>
+    <string name="muonghoa">Tọa lạc tại xã Cốc San, huyện Bát Xát, cách thành phố Lào Cai khoảng 7km, Cốc San là một hệ thống các thác nước và các hang động to nhỏ khác nhau. Từ quốc lộ 4D, có một con đường đất nhỏ dài khoảng hơn 1km dẫn vào Cốc San. Đường vào Cốc San rất ngoằn ngoèo, tối và bị lấp bởi những tảng đá, vẻ đẹp của Cốc San vẫn hoàn toàn mang tính chất tự nhiên, hoang sơ. Có một điều rất đặc biệt là hầu như ở mỗi gầm một con thác, sau làn nước đổ từ trên cao xuống lại có một hang động. Phong cảnh Cốc San hài hoà và khoáng đạt. Mọi người mỗi khi đến đây đều cảm nhận được sự huyền bí diệu kỳ toát lên từ những ngọn thác, những mô đá và những hang động.</string>
+
+    <string name="introtour">Tháng 9 đến tháng 11 là quãng thời gian phong cảnh Sapa (tỉnh Lào Cai) vào độ đẹp nhất. Tiết trời dễ chịu, thiên nhiên và con người hòa như vào nhau, đẹp tựa bức tranh thủy mặc… Có thể nói, đó là những nét riêng ở Sapa đã níu chân du khách bấy lâu nay.</string>
+    <string name="pink">Pink</string>
+    <string name="black">Black</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="caimeo">Rau cải Mèo của Sa Pa được người dân địa phương nấu bằng nhiều cách: xào, nấu, luộc hoặc dùng để ăn lẩu. Thông thường, chế biến một cách đơn giản nhất, chỉ cần thái nhỏ, đập gừng đổ nước vào đun sôi là có một bát canh mát, rất hợp cho thực khách uống rượu. Kỳ công hơn, rau có thể nấu cùng với thịt gà băm rối, không quên bỏ gia vị gừng, nêm vừa mắm, muối, người thưởng thức sẽ cảm nhận được một hương vị thật độc đáo. Chất ngọt của thịt gà quện với cái ngọt mát, ngăm ngăm đắng của rau cải làm cho người ăn cảm thấy không bị ngán.</string>
+    <string name="cahoi1">Với vị ngon đậm đà, thịt có màu hồng đẹp, giá trị dinh dưỡng cao, cá hồi đang là món ăn sang trọng của du khách khi đến với Sapa. Với khí hậu quanh năm mát mẻ và một mùa đông lạnh thậm chí có cả tuyết bao phủ, cá hồi Sapa có thớ săn, không có mỡ, chất lượng không thua kém cá hồi nhập khẩu, rất thích hợp để chế biến thành nhiều món khác nhau như: gỏi, lẩu, cháo, cá hồi nướng, trứng cá hấp, cá hun khói, salad rau xanh ăn kèm cá hồi tẩm sốt cam và tiêu xanh, cá hồi nhồi dưa chuột…</string>
+    <string name="cahoi">Dù được nuôi ở nhiều nơi nhưng đến nay trại nuôi cá hồi Sapa vẫn là đơn vị thành công nhất. Nhiều du khách trong và ngoài nước đã có dịp khám phá, tìm hiểu về quy trình nuôi cá hồi, được tận mắt ngắm nhìn đàn cá tung tăng bơi lội ngay dưới chân Thác Bạc. Sự có mặt của những chú cá hồi vân giữa núi rừng Tây Bắc khiến cho sản phẩm du lịch Sapa trở nên hấp dẫn hơn, đa dạng hơn. Trại nuôi cá ngay dưới chân Thác Bạc là địa điểm được nhiều du khách ghé thăm nhất, bởi nơi đây gần điểm du lịch và nằm ngay dưới chân Phan Xi Păng nên rất tiện dừng chân.</string>
+    <string name="cacloainam">Rau, đậu và các loại nấm tương tự thịt cũng được xiên thành từng xiên, nướng trên than hoa để ăn kèm với các món thịt nướng.</string>
+    <string name="gaden">Gà đen là một giống gà quý hiếm, đặc điểm nổi bật của giống gà này là thịt, xương có màu đen, hàm lượng mỡ trong thịt ít, thịt săn chắc, thơm ngon. Thịt gà đen, xương đen, không những có tác dụng tăng cường sinh lực mà còn có hương vị và có giá trị dược liệu đặc biệt trong chữa bệnh tim mạch. Gà đen khi ăn thịt thơm ngọt là đặc sản nổi tiếng của Sa Pa.</string>
+    <string name="changa">Chân, cánh gà được tẩm uớp sẵn các loại gia vị hay mật ong rồi nướng trực tiếp trên than hồng. Dưới cái không khí se lạnh của Sa Pa bạn sẽ dễ dàng đánh bay một vài chiếc cánh hay dăm chục chiếc chân gà nướng.</string>
+    <string name="thitlon">Thịt lợn có thể thái nhỏ rồi xiên thành các xiên hoặc để nguyên cả miếng ba chỉ, tất cả được tẩm ướp trước, sau khi khách lựa chọn thì mới mang đi nướng</string>
+    <string name="thitbo">Thịt bò được thái lát mỏng, tẩm ướp với gia vị rồi cuộn với rau cải mèo ở bên trong, tất cả thành 1 xiên rồi nướng trên than hồng. Vị ngọt của thịt bò và vị ngăm ngăm đắng của rau cải mèo pha trộn với một chút vị cay từ tương ớt sẽ khiến các bạn khó mà dứt ra được.</string>
+
+    <string name="dialy">Vùng lãnh thổ miền Bắc này được chia thành 3 vùng lãnh thổ nhỏ:
+
+Tây Bắc bộ (bao gồm 6 tỉnh: Lào Cai, Yên Bái, Điện Biên, Hoà Bình, Lai Châu, Sơn La). Vùng này chủ yếu nằm ở hữu ngạn sông Hồng. Riêng Lao Cai, Yên Bái đôi khi vẫn được xếp vào tiểu vùng đông bắc.
+Đông Bắc bộ (bao gồm 9 tỉnh: Hà Giang, Cao Bằng, Bắc Kạn, Lạng Sơn, Tuyên Quang, Thái Nguyên, Phú Thọ, Bắc Giang, Quảng Ninh.)
+Đồng bằng sông Hồng (bao gồm 10 tỉnh: Bắc Ninh, Hà Nam, Hà Nội, Hải Dương, Hải Phòng, Hưng Yên, Nam Định, Ninh Bình, Thái Bình, Vĩnh Phúc.)
+Theo quy hoạch vùng kinh tế</string>
+<integer name="slide_animation_duration">300</integer>
+    <string name="chon_background">Chọn màu nền cho ứng dụng</string>
+    <string name ="trogiup_1">Giới Thiệu</string>
+    <string name="rs_trogiup_1">ỨNG DỤNG MY TRIP
+"\n\t"* Được phát triển bởi:
+     "\n\t\t\t"     Huỳnh Tiến Sĩ
+     "\n\t\t\t"     Lê Quang Thảo
+     "\n\t\t\t"     Lê Quốc Huy
+     "\n\t\t\t"     Trần Khánh Vy
+     "\n\t\t\t"     Nguyễn Hữu Trí
+     "\n\t\t\t"     Nguyễn Thanh Sang
+     "\n\t\t\t"     Nguyễn Ngọc Hùng
+ "\n\t"* Với khả năng cung cấp cho người dùng những thông tin từ lịch trình, danh lam thắng cảnh, món ăn ngon cho tới một số điều hữu ích về địa điểm nơi bạn tới. Ứng dụng này hỗ trợ cả các thành phố tại Việt Nam, từ Hà Nội, TP. Hồ Chí Minh, Hạ Long (Quảng Ninh) cho đến một số vùng du lịch nhỏ hơn như Hà Giang hay khu vực Miền Tây Nam Bộ. Ngoài ra còn cho người dùng tự tạo note lịch trình du lịch của bản thân.</string>
+    <string name="trogiup_2">Hướng dẫn sử dụng ứng dụng</string>
+    <string name="rs_trogiup_2">Để sử dụng được toàn bộ những tính năng của ứng dụng, bạn phải có tài khoản.
+ "\n\t\t" - Nếu đã có tài khoản, bạn chỉ cần đăng nhập. Có 3 cách:
+     "\n\t\t\t" * Nhập gmail và password bạn đã đăng kí
+     "\n\t\t\t" * Đăng nhập bằng Facebook.
+     "\n\t\t\t" * Đăng nhập bằng Google.
+ "\n\t\t" - Nếu chưa có tài khoản, bạn cần phải đăng ký và sau đó đăng nhập vào ứng dụng</string>
+    <string name="trogiup_3">Hỗ trợ</string>
+    <string name="rs_trogiup_3">Mọi chi tiết liên hệ: Huỳnh Sĩ (si@gmail.com)</string>
+
+
+    <string-array name="area_list">
+        <item>Bắc</item>
+        <item>Trung</item>
+        <item>Nam</item>
+    </string-array>
+
+    <string-array name="type">
+    <item>Food</item>
+    <item>Place</item>
+</string-array>
+
+    <string-array name="city">
+        <item>An Giang</item>
+        <item>Bà Rịa-Vũng</item>
+        <item>Bạc Liêu</item>
+        <item>Bắc Kạn</item>
+        <item>Bắc Giang</item>
+        <item>Bắc Ninh</item>
+        <item>Bến Tre</item>
+        <item>Bình Dương</item>
+        <item>Bình Định</item>
+        <item>Bình Phước</item>
+        <item>Bình Thuận</item>
+        <item>Cà Mau</item>
+        <item>Cao Bằng</item>
+        <item>Cần Thơ</item>
+        <item>Đà Nẵng</item>
+        <item>Đắk Lắk</item>
+        <item>Đắk Nông</item>
+        <item>Điện Biên</item>
+        <item>Đồng Nai</item>
+        <item>Đồng Tháp</item>
+        <item>Gia Lai</item>
+        <item>Hà Giang</item>
+        <item>Hà Nam</item>
+        <item>Hà Nội</item>
+        <item>Hà Tây</item>
+        <item>Hà Tĩnh</item>
+        <item>Hải Dương</item>
+        <item>Hải Phòng</item>
+        <item>Hòa Bình</item>
+        <item>Hồ Chí</item>
+        <item>Hậu Giang</item>
+        <item>Hưng Yên</item>
+        <item>Khánh Hòa</item>
+        <item>Kiên Giang</item>
+        <item>Kon Tum</item>
+        <item>Lai Châu</item>
+        <item>Lào Cai</item>
+        <item>Lạng Sơn</item>
+        <item>Lâm Đồng</item>
+        <item>Long An</item>
+        <item>Nam Định</item>
+        <item>Nghệ An</item>
+        <item>Ninh Bình</item>
+        <item>Ninh Thuận</item>
+        <item>Phú Thọ</item>
+        <item>Phú Yên</item>
+        <item>Quảng Bình</item>
+        <item>Quảng Nam</item>
+        <item>Quảng Ngãi</item>
+        <item>Quảng Ninh</item>
+        <item>Quảng Trị</item>
+        <item>Sóc Trăng</item>
+        <item>Sơn La</item>
+        <item>Tây Ninh</item>
+        <item>Thái Bình</item>
+        <item>Thái Nguyên</item>
+        <item>Thanh Hóa</item>
+        <item>Thừa Thiên</item>
+        <item>Tiền Giang</item>
+        <item>Trà Vinh</item>
+        <item>Tuyên Quang</item>
+        <item>Vĩnh Long</item>
+        <item>Vĩnh Phúc</item>
+        <item>Yên Bái</item>
+    </string-array>
+
+    <string-array name="type1">
+        <item>default</item>
+        <item>Food</item>
+        <item>Place</item>
+    </string-array>
+
+    <string-array name="city1">
+        <item>default</item>
+        <item>An Giang</item>
+        <item>Bà Rịa-Vũng</item>
+        <item>Bạc Liêu</item>
+        <item>Bắc Kạn</item>
+        <item>Bắc Giang</item>
+        <item>Bắc Ninh</item>
+        <item>Bến Tre</item>
+        <item>Bình Dương</item>
+        <item>Bình Định</item>
+        <item>Bình Phước</item>
+        <item>Bình Thuận</item>
+        <item>Cà Mau</item>
+        <item>Cao Bằng</item>
+        <item>Cần Thơ</item>
+        <item>Đà Nẵng</item>
+        <item>Đắk Lắk</item>
+        <item>Đắk Nông</item>
+        <item>Điện Biên</item>
+        <item>Đồng Nai</item>
+        <item>Đồng Tháp</item>
+        <item>Gia Lai</item>
+        <item>Hà Giang</item>
+        <item>Hà Nam</item>
+        <item>Hà Nội</item>
+        <item>Hà Tây</item>
+        <item>Hà Tĩnh</item>
+        <item>Hải Dương</item>
+        <item>Hải Phòng</item>
+        <item>Hòa Bình</item>
+        <item>Hồ Chí</item>
+        <item>Hậu Giang</item>
+        <item>Hưng Yên</item>
+        <item>Khánh Hòa</item>
+        <item>Kiên Giang</item>
+        <item>Kon Tum</item>
+        <item>Lai Châu</item>
+        <item>Lào Cai</item>
+        <item>Lạng Sơn</item>
+        <item>Lâm Đồng</item>
+        <item>Long An</item>
+        <item>Nam Định</item>
+        <item>Nghệ An</item>
+        <item>Ninh Bình</item>
+        <item>Ninh Thuận</item>
+        <item>Phú Thọ</item>
+        <item>Phú Yên</item>
+        <item>Quảng Bình</item>
+        <item>Quảng Nam</item>
+        <item>Quảng Ngãi</item>
+        <item>Quảng Ninh</item>
+        <item>Quảng Trị</item>
+        <item>Sóc Trăng</item>
+        <item>Sơn La</item>
+        <item>Tây Ninh</item>
+        <item>Thái Bình</item>
+        <item>Thái Nguyên</item>
+        <item>Thanh Hóa</item>
+        <item>Thừa Thiên</item>
+        <item>Tiền Giang</item>
+        <item>Trà Vinh</item>
+        <item>Tuyên Quang</item>
+        <item>Vĩnh Long</item>
+        <item>Vĩnh Phúc</item>
+        <item>Yên Bái</item>
+    </string-array>
+
+
+
+
+
+</resources>

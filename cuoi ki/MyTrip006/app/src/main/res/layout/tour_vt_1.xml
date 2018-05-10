@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:openDrawer="start">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/ak_background"
+        android:orientation="vertical"
+      >
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    </android.support.design.widget.AppBarLayout>
+
+
+    <FrameLayout
+
+        android:id="@+id/fragmentContainer"
+        android:layout_weight="9"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+
+    <LinearLayout
+
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="150dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/vungtau_uudaikhachsan"/>
+
+        <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Buổi Sáng"
+                    android:textSize="20dp"
+                    android:textStyle="bold"/>
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Ăn uống"
+                    android:textSize="15dp"
+                    android:textStyle="bold"/>
+
+
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/banhkhotgvs_vungtau" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Bánh Khọt Gốc Vú Sữa /n Xếp hàng và hít khói để ăn bánh khọt Góc Vú Sữa ... Bánh rất giòn, con tôm ngọt lịm. Ai đó đã sáng tạo rất nhiều nhân bánh khọt: thịt heo, thịt bò, hải sản (mực, sò điệp...) nhưng có lẽ chỉ có nhân tôm là hợp với bánh khọt nhất..." />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:text="Xem thêm"
+                    android:textColor="@android:color/holo_blue_dark" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Du lịch"
+                    android:textSize="15dp"
+                    android:textStyle="bold"/>
+
+
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/ngonhaidangvt" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Hải đăng Vũng Tàu được người Pháp xây dựng vào năm 1862 nhằm mục đích chỉ đường, báo hiệu cho các tàu thuyền qua lại, nằm ở độ cao là 149m so với mực nước biển....." />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:id="@+id/chitiethaidang"
+
+                    android:text="Xem thêm"
+                    android:textColor="@android:color/holo_blue_dark" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Buổi Trưa"
+                    android:textSize="20dp"
+                    android:textStyle="bold"/>
+
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Ăn uống"
+                    android:textSize="15dp"
+                    android:textStyle="bold"/>
+
+
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/ganhhao1" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Với địa thế lý tưởng một bên là núi, bên kia là biển, Gành Hào nằm ở giữa đón nhận cả cái kỳ vĩ của núi và cái lãng mạn, trữ tình, êm ái của sóng biển rì rầm. Gành Hào đẹp nhất là vào lúc hoàng hôn, khi mặt trời dần xuống núi để lại chút nắng cuối cùng đủ để  nhuộm cả một không gian quán từ màu hồng chuyển sang màu tím thẫm. Khung cảnh thơ mộng, đầy trữ tình, mê hoặc tất cả những ai đã một lần đặt chân đến nơi đây." />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:text="Xem thêm"
+                    android:textColor="@android:color/holo_blue_dark" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Du lịch"
+                    android:textSize="15dp"
+                    android:textStyle="bold"/>
+
+
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/homay" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Khu du lịch Hồ Mây ở Vũng Tàu tọa lạc trên đỉnh núi Lớn, được mệnh danh là chốn thiên đường giữa lòng thành phố biển. Nơi đây là điểm du ngoạn mới lạ, thu hút sự quan tâm của nhiều tín đồ du lịch gần xa.
+
+
+
+Nếu như trước đây, để tham quan núi Lớn, bạn chỉ có thể đi bằng đường bộ thì ngày nay, với hệ thống cáp treo hiện đại có công suất 2000 lượt hành khách/giờ, chỉ mất 5 phút, bạn đã dễ dàng chinh phục đỉnh núi, ngắm toàn bộ khung cảnh trời đất bao la.
+
+Toàn bộ thành phố biển Vũng Tàu xinh đẹp với những cung đường ven biển uốn lượn như một dãi lụa, những ngôi nhà với kiến trúc độc đáo, bãi biển xanh trong in bóng mây trời, xa xa là khu Bạch Dinh nổi bật giữa rừng cây…" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:text="Xem thêm"
+                    android:textColor="@android:color/holo_blue_dark" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Buổi Tối"
+                    android:textSize="20dp"
+                    android:textStyle="bold"/>
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Ăn uống"
+                    android:textSize="15dp"
+                    android:textStyle="bold"/>
+
+
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/laucaduoi1" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Lẩu cá đuối từ lâu được coi là món đặc sản nổi trội, đại diện cho ẩm thực vùng biển Vũng Tàu. Tất nhiên, không tự nhiên mà cá đuối được yêu thích mà vì nó ngon và lạ một cách rất “diệu kỳ”. Không như những loại cá nấu lẩu khác, cá đuối dường như hoàn toàn không có xương hoặc chỉ có xương rất ít ở đầu và sống lưng (đối với những con to). Vì thế, ăn cá đuối – điều an tâm đầu tiên là rất khó để mắc xương và cực lạ miệng vì hầu như toàn bộ những thứ gọi là “xương cá” của nó đều là sụn mềm (có thể ăn được như sụn non của thịt một cách bình thường)." />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:text="Xem thêm"
+                    android:textColor="@android:color/holo_blue_dark" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Du lịch"
+                    android:textSize="15dp"
+                    android:textStyle="bold"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Quán Ô Cấp 1 Cafe Vũng Tàu
+Địa chỉ: Số 90A đường Hạ Long, Thành Phố Vũng Tàu
+Giờ mở cửa: 6h00 - 23h00
+Giá cả: 20.000 – 60.000 VNĐ
+" />
+
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/cafevt1" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Ô Cấp 1 là một trong những quán cafe đẹp ở Vũng Tàu được nhiều du khách biết đến khi nằm trên đường Hạ Long, con đường xinh đẹp nổi tiếng của thành phố biển. Từ quán, có thể nhìn thấy toàn cảnh biển xanh mát. Cảnh đẹp nhất vào bình minh và hoàng hôn mỗi ngày.
+Quán rất rộng, nhiều cây cối, là hướng gió biển thổi vào sẽ mang lại cho bạn cảm giác như lạc vào resort nào đó. Đồ uống của quán giá hợp lý, đa dạng các loại giải khát. Nhân viên luôn lịch sự, làm việc luôn tay để giữ quán sạch nhất có thể.
+
+" />
+                <ImageView
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/cafevt2" />
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:id="@+id/chitietcoffe"
+                    android:text="Xem thêm"
+                    android:textColor="@android:color/holo_blue_dark" />
+
+
+            </LinearLayout>
+
+
+        </ScrollView>
+    </LinearLayout>
+
+    </FrameLayout>
+    </LinearLayout>
+    <android.support.design.widget.NavigationView
+        android:id="@+id/nav_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:fitsSystemWindows="true"
+        app:headerLayout="@layout/nav_header_main"
+        app:menu="@menu/activity_main_drawer" />
+
+</android.support.v4.widget.DrawerLayout>
