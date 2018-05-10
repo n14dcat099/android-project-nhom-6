@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "450256457345",
+    "firebase_url": "https://giuaki-9a65c.firebaseio.com",
+    "project_id": "giuaki-9a65c",
+    "storage_bucket": "giuaki-9a65c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450256457345:android:395251e487d816d0",
+        "android_client_info": {
+          "package_name": "vn.edu.ptithcm.giuaki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450256457345-ts0qlh9rssc9nit1n7plqcikpukuihk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZQ3rVgINdhths3cTnB5jKJ1kZI7Plzy0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+#Fri Apr 27 13:57:17 ICT 2018
+base.0=D\:\\Bai4-SQLite-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9
+renamed.0=classes.dex
+file.0=D\:\\Bai4-SQLite-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9\\classes.dex

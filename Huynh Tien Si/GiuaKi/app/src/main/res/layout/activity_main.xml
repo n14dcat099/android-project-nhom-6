@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFF176"
+    tools:context="vn.edu.ptithcm.giuaki.MainActivity">
+
+    <Button
+        android:background="@drawable/custom_button"
+        android:id="@+id/btnThem"
+        android:text="Thêm Điện Thoại"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <!--<LinearLayout-->
+        <!--android:background="#f000"-->
+        <!--android:weightSum="3"-->
+        <!--android:orientation="horizontal"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content">-->
+        <!--<Button-->
+            <!--android:background="@drawable/custom_button"-->
+            <!--android:id="@+id/btnThem"-->
+            <!--android:text="Them"-->
+            <!--android:layout_weight="1"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="match_parent" />-->
+        <!--<Button-->
+            <!--android:background="@drawable/custom_button"-->
+            <!--android:id="@+id/btnXoa"-->
+            <!--android:text="Xoa"-->
+            <!--android:layout_weight="1"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="match_parent" />-->
+        <!--<Button-->
+            <!--android:background="@drawable/custom_button"-->
+            <!--android:id="@+id/btnSua"-->
+            <!--android:text="Sua"-->
+            <!--android:layout_weight="1"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="match_parent" />-->
+    <!--</LinearLayout>-->
+    <ListView
+        android:background="#FFFF8D"
+        android:layout_margin="10px"
+        android:id="@+id/lst"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </ListView>
+
+</LinearLayout>

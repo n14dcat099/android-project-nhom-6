@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\c2d47c2e827c8ffdac0562a2287a60953948a436\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\Bai4-SQLite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3a8040d4c349827db0e047340401340aa84c333e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\ea0e3688eb376c3fb7f2cbd96f2b7070af6bd5ef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\Bai4-SQLite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7b0da76d3c5f6d305ac9c7af86ff9b5a373df8b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\6b8f3a210ef3722878ad026a115748dff0c33f92\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\Bai4-SQLite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_66dddf3387b98fcc4c05f7efcb1990fc0fadaf51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\0f27a23d85ecd1141746cc57b8d07221b4573484\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\Bai4-SQLite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f84c79cf8717aedb387f21f152a996e38a901917\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\Bai4-SQLite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_d116f1289ec64d8870508f41e0c8574594a842dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\4443022015b738b67741f1b3b3cd580a98e2ae46\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\Bai4-SQLite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d505a6af304e94c33f5f1d0fdbf316a2ff1b60da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\5a4c1c0349f4ff32ea6f4bb9d0d53ab7ea7537c3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\Bai4-SQLite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e8ba478deb97d56894b1a08855b674950559d9bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\cdef68f35f2a39304edd7ab28312fc02d8efee08\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\Bai4-SQLite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_14158af7add9a309381479af6523440ba61f2aed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Bai4-SQLite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_0ead05a31e854208ca0e2e38515f93408b98e6db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Bai4-SQLite-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="D:\Bai4-SQLite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2fe5648ad3f8c9e79dc1947e0e45b8ab2ced7d8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\417dc7ccbcfd159b0165ea98b39343d63c31869e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\Bai4-SQLite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_26ccfccc82cbd0e4eced980d000e42c9a6439ddf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Bai4-SQLite-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fc8a791a23698afd07a2e6d7fd8eee4e935ff72a">
+        <dex dex="D:\Bai4-SQLite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6b5e217d03723d7a006e4542fe62ef4528cb35ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\e2aa946923ffff8e62f57d04893979c56a4315f0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Bai4-SQLite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7ca473ac2e041b4c576964783ff870fd7d9305ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\d9ea1d40890db56d3818d9771380056cc4089f73\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Bai4-SQLite-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7f3ae8dabfd20b0c6a3fe9a26184fcc8ca81b17f\classes.dex" />
+    </item>
+
+</items>

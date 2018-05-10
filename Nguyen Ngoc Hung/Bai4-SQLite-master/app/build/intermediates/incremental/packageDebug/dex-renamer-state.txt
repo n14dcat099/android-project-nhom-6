@@ -1,0 +1,7 @@
+#Fri Apr 27 08:42:42 ICT 2018
+base.0=D\:\\Bai4-SQLite-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6b5e217d03723d7a006e4542fe62ef4528cb35ec
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Bai4-SQLite-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2fe5648ad3f8c9e79dc1947e0e45b8ab2ced7d8d\\classes.dex
+base.1=D\:\\Bai4-SQLite-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2fe5648ad3f8c9e79dc1947e0e45b8ab2ced7d8d
+file.0=D\:\\Bai4-SQLite-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6b5e217d03723d7a006e4542fe62ef4528cb35ec\\classes.dex
